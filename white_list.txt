@@ -1,0 +1,15 @@
+smtp.dsl.pipex.com:587,raskolnikov@dsl.pipex.com,sg46ccws
+infocusqa.com:587,sadheeksalam@infocusqa.com,sadheeksalam12345*
+sradigitalmediamgmt.com:587,sarah@sradigitalmediamgmt.com,Jack8304#1
+smtp.rambler.ru:587,alewin@rambler.ru,QWE27rty56
+theirelandcabin.com:587,greg@theirelandcabin.com,Hatchet20
+jy3.net:587,shannah@jy3.net,shannah5
+smtp.2hatslogic.com:587,aneesh@2hatslogic.com,2h@tslogic
+sorenostergaard.com:587,mail@sorenostergaard.com,Smed4me2
+smtp.windyriver.com:587,office@windyriver.com,Jmp6U7F4g(*@n
+mbcyachts.com:587,info@mbcyachts.com,Secure!23
+smtp.sina.com:587,oldgrant@sina.com,passage
+smtp.sina.com:587,ke00an.student@sina.com,2651891
+blowminddeals.com:587,support@blowminddeals.com,Doun@im2K19
+destinare.com:587,daha@destinare.com,DAha0011!
+smtp.cdtransmisiones.com:587,albertogeder@cdtransmisiones.com,15419853cD
